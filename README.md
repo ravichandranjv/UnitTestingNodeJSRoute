@@ -1,5 +1,5 @@
 # TestingNodeJSRoute
-Unit testing a Node Js express web app route.
+Testing a Node Js express web app route.
 
 Pre-requisites - Node Js - https://nodejs.org, Mocha - npm install mocha --save-dev, supertest - npm install supertest --save-dev, assert - npm install assert --save-dev, expressjs - npm install express --save-dev
 
